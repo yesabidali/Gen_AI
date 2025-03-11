@@ -1,0 +1,7 @@
+memeber = ("Abid", "Gaurav", "Sorav", "Raghav")
+abid = list(memeber)
+# print(abid)
+abid.remove("Sorav")
+memeber = tuple(abid)
+# print (abid)
+type(memeber)
