@@ -51,4 +51,3 @@ Step 5: Feedforwrd
 
 - They not only takes input with text it uses multi-models
 
-

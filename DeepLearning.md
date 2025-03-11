@@ -58,3 +58,4 @@ Artificial Neural Network (ANN) is a type of computer program inspired by how th
 - output Layer: Produce output or generate result
 
 
+
